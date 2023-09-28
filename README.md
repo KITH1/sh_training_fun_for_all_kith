@@ -1,4 +1,4 @@
 # sh_training_fun_for_all
-this is a super cool training project 
+This is a super cool training project 
 
-There are some changes here taken straight from the odoo community; just as examples, please don't use me
+There are some changes here, taken straight from the odoo community: just as examples, please don't use me
